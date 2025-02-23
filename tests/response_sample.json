@@ -1,0 +1,21 @@
+{
+    "chain": "ethereum",
+    "chain_id": 1,
+    "address": "0xe8a090cf0a138c971ffdbdf52c2b7ad2f7bcebb6",
+    "block_time": "2025-01-08T06:03:59+00:00",
+    "block_number": 21577841,
+    "index": 84,
+    "hash": "0x5e2cbce84e4322514e079b8c87e06c09353de55ba56b5030b8e257b1ef177b87",
+    "block_hash": "0x9415bf126ca70ca1b450c76ca4e9e9adf28fec8d67d1955da098be43acaedd55",
+    "value": "0x55582e8e53c400",
+    "transaction_type": "Sender",
+    "from": "0xe8a090cf0a138c971ffdbdf52c2b7ad2f7bcebb6",
+    "to": "0xea86c2f7bf93cdd1216555644a3b9cb0d0ab93c1",
+    "nonce": "0x6e",
+    "gas_price": "0x11296c1ec",
+    "gas_used": "0x5208",
+    "effective_gas_price": "0x11296c1ec",
+    "success": true,
+    "data": "0x",
+    "logs": []
+}

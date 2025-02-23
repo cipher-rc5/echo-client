@@ -1,0 +1,23 @@
+{
+  "name": "echo-client",
+  "author": "ℭ𝔦𝔭𝔥𝔢𝔯",
+  "version": "0.0.1",
+  "module": "src/index.ts",
+  "type": "module",
+  "scripts": {
+    "test": "bun test",
+    "format": "dprint fmt",
+    "check-format": "dprint check"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "pino": "^9.6.0",
+    "pino-pretty": "^13.0.0",
+    "zod": "^3.24.2"
+  }
+}
